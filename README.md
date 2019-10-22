@@ -1,6 +1,6 @@
 # Reconocimiento de Objetos NEER
 ### Miembros del equipo
-*Cardenas Pinedo Kevin Salvador
+*Cardenas Pinedo Kevin Salvador.
 * Chávez Hurtado Avelino
 * Esqueda Ortiz Andrea Guadalupe
 * Garibay Guerra Luis Angel
