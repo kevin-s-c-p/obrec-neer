@@ -2,6 +2,7 @@
 *Agregar en orden alfabético*
 ### Miembros del equipo
 * Cárdenas Castañeda José Antonio
+*Cardenas Pinedo Kevin Salvador
 * Chávez Hurtado Avelino
 * Diaz Cruz José Ismael
 * Esqueda Ortiz Andrea Guadalupe
